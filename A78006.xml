@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christ the Sts advantage both in life and death. A sermon preached at the funerall of Ms Elisabeth Coke, wife to Colonell Tho. Coke of Pebmersh, Esquire. By Thomas Burrough, preacher of the Gospel at Pebmersh in Essex.</title>
+            <author>Burroughes, Thomas, b. 1611 or 12.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78006</idno>
+            <idno type="STC">Wing B6130</idno>
+            <idno type="STC">Thomason E1200_3</idno>
+            <idno type="STC">ESTC R208763</idno>
+            <idno type="EEBO-CITATION">99867685</idno>
+            <idno type="PROQUEST">99867685</idno>
+            <idno type="VID">120006</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78006)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 120006)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 168:E1200[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christ the Sts advantage both in life and death. A sermon preached at the funerall of Ms Elisabeth Coke, wife to Colonell Tho. Coke of Pebmersh, Esquire. By Thomas Burrough, preacher of the Gospel at Pebmersh in Essex.</title>
+                  <author>Burroughes, Thomas, b. 1611 or 12.</author>
+               </titleStmt>
+               <extent>[20], 49, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.R. and E.M. for John Bellamy at the 3. golden Lions in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Flyleaf: Imprimatur, Joseph Caryl.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coke, Elisabeth.</term>
+               <term>Funeral sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Corinne Vieracker</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Corinne Vieracker</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:120006:1" rendition="simple:additions"/>
+            <p>CHRIST THE S<hi rend="sup">ts</hi> ADVANTAGE both IN LIFE AND DEATH.</p>
+            <p>A SERMON Preached at the Funerall of M<hi rend="sup">s</hi> ELISABETH COKE, Wife to Colonell THO. COKE of <hi>Pebmerſh,</hi> Eſquire.</p>
+            <p>By <hi>Thomas Burrough,</hi> Preacher of the Goſpel at <hi>Pebmerſh</hi> in <hi>Eſſex.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>PHILIP. 3.7.</hi>
+               </bibl>
+               <p>But what things were gain to me, theſe I accounted loſſe for Chriſt.</p>
+            </q>
+            <p>LONDON, Printed by <hi>T. R.</hi> and <hi>E. M.</hi> for <hi>John Bellamy</hi> at the 3. golden Lions in Cornhill, 1646.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:120006:2"/>
+            <opener>
+               <dateline>
+                  <date>MAY 2. 1646.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>Imprimatur.</hi>
+            </p>
+            <closer>
+               <signed>JOSEPH CARYL.</signed>
+            </closer>
+            <pb facs="tcp:120006:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:120006:3"/>
+            <pb facs="tcp:120006:3"/>
+            <head>To the Worſhipfull, my truely Honoured good friend, Colonell <hi>Thomas Coke</hi> Eſquire, one of his Majeſties Juſtices of Peace and <hi>Quorum</hi> for the County of Eſſex.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Ow juſtly I ſhall incur the cenſure of indiſcretion in giving conſent to have theſe raw and indigeſted Meditations (eſpe<g ref="char:EOLhyphen"/>cially in theſe knowing times) to paſſe the Preſſe, I cannot but eaſily conjecture. This by way
+<pb facs="tcp:120006:4"/> of excuſe I can truely ſay, my conſcience bearing mee witneſſe, I intended nothing leſſe; neither deſired any thing more, then that they might have been <hi>ſo</hi> bu<g ref="char:EOLhyphen"/>ried in the hearts of the Con<g ref="char:EOLhyphen"/>gregation to whom they were preached, that the ſound of them might never have been farther heard. But importunity of friends for the printing of this poor, plaine, unworthy Sermon hath not onely beſieged mee, but alſo gained ſo farre upon mee, that I can keep poſſeſſion of it no longer: And being enforced to yeeld it up, I knew not into whoſe hands to reſigne it rather then into yours, of whoſe favou<g ref="char:EOLhyphen"/>rable acceptance of my poore, weak labours in the Miniſtery I
+<pb facs="tcp:120006:4"/> have had ſo much experience. Your clemency hath embolden<g ref="char:EOLhyphen"/>ed me not onely to preſent it to you, but alſo to ſend it abroad in that plain poſture and homely Dreſſe wherein it was delivered, without alteration or addition. Sufficient to procure from you for it the beſt welcome, and moſt cordiall entertainment that can be deſired, is the very mentioning of the occaſion, and ſending it with this bare Inſcription, <hi>A Sermon preached at the Funerall of your Dear, Loving, and Welbelo<g ref="char:EOLhyphen"/>ved Wife.</hi> I have read a Spaniſh Proverb, <hi>He that wipeth the childs noſe kiſſeth the mothers cheeke:</hi> Sure I am, he that doth but men<g ref="char:EOLhyphen"/>tion the name of your dear Wife, though hee renew your griefe,
+<pb facs="tcp:120006:5"/> yet in your apprehenſion hee re<g ref="char:EOLhyphen"/>viveth your heart. For upon my knowledge, you account your tears ſhed for her ſweet refreſh<g ref="char:EOLhyphen"/>ment; and thoſe ſolitary places and times ſeem to you moſt de<g ref="char:EOLhyphen"/>lightſome, where and when, be<g ref="char:EOLhyphen"/>ing alone, you may (as <hi>David</hi> once at Ziklag) weep till you can weep no more, 1 <hi>Sam.</hi> 30.4. I deſire that you may imitate <hi>Da<g ref="char:EOLhyphen"/>vid</hi> alſo in the enſuing clauſe: <hi>But David encouraged himſelf in the Lord his God, ver.</hi> 6.</p>
+            <p>
+               <hi>Sir,</hi> You know right well, that whatever comforts wee loſe in the creature, they are eminently and tranſcendently to be found in the bleſſed Creatour: But the difficultie is in applying theſe things home to our ſelves when
+<pb facs="tcp:120006:5"/> the Lord calleth us forth to tri<g ref="char:EOLhyphen"/>all. I remember what the Co<g ref="char:EOLhyphen"/>moedian ſaith, <hi>Facilè cum va<g ref="char:EOLhyphen"/>lemus conſilium damus aegroto:</hi> I know it is farre eaſier in theſe ca<g ref="char:EOLhyphen"/>ſes to tell others what they ought to doe, then to practiſe it our ſelves. Sir, I deſire to ſympathize with you in your griefe, as the Lord hath made mee (in ſome meaſure) a ſuffer<g ref="char:EOLhyphen"/>er with you in your loſſe. You have <hi>loſt</hi> (ſhall I uſe that impro<g ref="char:EOLhyphen"/>per word?) a pious loving Wife; and I and mine a cor<g ref="char:EOLhyphen"/>diall faithfull friend. Let mee ingenuouſly profeſſe, that theſe<g ref="char:EOLhyphen"/>rious thoughts how the Lord hath now deprived mee of any other way or means to teſtifie my thankfull reſpects towards her
+<pb facs="tcp:120006:6"/> was not the leaſt motive that o<g ref="char:EOLhyphen"/>verpowred my ſpirit to diſpleaſe my ſelfe for the pleaſuring of o<g ref="char:EOLhyphen"/>thers in the printing of this en<g ref="char:EOLhyphen"/>ſuing Sermon. Truely, Sir, ſo many have been the favours that I and mine have received from you, and ſo reall are the engage<g ref="char:EOLhyphen"/>ments wherein I ſtood bound unto you and your dear Con<g ref="char:EOLhyphen"/>ſort, that I ſhall far rather chuſe to be accounted guilty of folly by others in coming into print, then of the leaſt ſuſpicion of in<g ref="char:EOLhyphen"/>gratitude from you: you know that cenſure that is deſervedly paſt upon unthankfulneſſe, <hi>Si ingratum dixeris, omnia dine<g ref="char:EOLhyphen"/>ris.</hi>
+            </p>
+            <p>It was your ſelfe, together with your deare Yoake-fellow,
+<pb facs="tcp:120006:6"/> your ſecond ſelfe, who were the chiefe (if not the onely) inſtru<g ref="char:EOLhyphen"/>ments of bringing mee into this place. When through feare of cruell enemies I was conſtrained to forſake an houſe, that in ſome regards I might then call <hi>mine,</hi> and to fly for refuge to the great and famous City of our Land, you were pleaſed from thence to bring mee to your own houſe, and to make your houſe mine (for my uſe) and your home, a home both to my ſelf and my fa<g ref="char:EOLhyphen"/>mily; which you did for ſeverall weeks, not ſuffering us to depart thence, untill you had provided a convenient houſe for us, and fur<g ref="char:EOLhyphen"/>niſhed us with thoſe neceſſary accommodations, which by rea<g ref="char:EOLhyphen"/>ſon of our flight, we were at that
+<pb facs="tcp:120006:7"/> time moſt deſtitue of. In which place (through the good hand of God) I have continued al<g ref="char:EOLhyphen"/>moſt three yeers compleat, en<g ref="char:EOLhyphen"/>joying much ſweet and heaven<g ref="char:EOLhyphen"/>ly ſociety with your ſelfe and your deareſt deceaſed friend, whom the Lord (to our great griefe, though her eternall gain) hath now pleaſed to take from us: whoſe zeale to God inflamed her heart with an ar<g ref="char:EOLhyphen"/>dent love to thoſe that feared God: The Saints were (of all upon earth) the onely excellent ones in her eye, and in their communion ſhee placed much delight.</p>
+            <p>How converſant ſhee was in reading the works of godly learned men; (to omit divers
+<pb facs="tcp:120006:7"/> others) I ſhall inſtance onely in thoſe choice paſſages which in reading ſome of the Labours of that worthily, renowned, and truly reverend Author, Doctor <hi>Freſton,</hi> ſhee had ſelected for her owne private uſe. With what an earneſt deſire of trea<g ref="char:EOLhyphen"/>ſuring up ſpirituall knowledge ſhee read the bleſſed word of God, who-ever ſhall peruſe her Bible will eaſily perceive. Great was her care, and no leſſe her induſtry concerning the educa<g ref="char:EOLhyphen"/>tion of thoſe ſweet children the Lord was pleaſed to beſtow upon you: 'twas her deſire to train them up in religion, learn<g ref="char:EOLhyphen"/>ing and manners. To this end her daily practice was (upon all occaſions) to ſharpen inſtructi<g ref="char:EOLhyphen"/>ons
+<pb facs="tcp:120006:8"/> to them, according as their young and tender yeeres were capable; even as <hi>Bathſhebah</hi> u<g ref="char:EOLhyphen"/>ſed to inſtruct her ſon <hi>Solomon,</hi> and <hi>Eunice</hi> taught her ſon <hi>Ti<g ref="char:EOLhyphen"/>mothie the holy Scriptures from a childe.</hi>
+            </p>
+            <p>Sir, The remembrance of theſe and many other ſweet gra<g ref="char:EOLhyphen"/>cious properties wherewith ſhee was endowed, although it might deſervedly yeeld you much comford in this your diſconſo<g ref="char:EOLhyphen"/>late eſtate and condition; (and I know, in many regards it doth) yet I have often heard you ſpeak of theſe and ſuch like, as aggravations of your griefe, to conſider how many com<g ref="char:EOLhyphen"/>forts you have loſt in one.</p>
+            <p>It cannot be denyed but
+<pb facs="tcp:120006:8"/> your loſſe is exceeding great in the death of ſuch a Wife, and your childrens in ſuch a Mother. But let mee yet tell you ſeriouſly, The loſſe in her is not onely (though moſt prin<g ref="char:EOLhyphen"/>cipally and eſpecially) yours: but the people of God in ge<g ref="char:EOLhyphen"/>nerall may juſtly claime a part in it. So affectionately deſi<g ref="char:EOLhyphen"/>rous was ſhee of the welfare of the Iſrael of God, that I am confident I may ſpeak of her in the Pſalmiſts words, Shee did deſire to preferre it be<g ref="char:EOLhyphen"/>fore her chiefeſt joy. Shee had learned how to ſacrifice her deereſt delights to the good of the publick: Witneſſe her willing not onely yeelding you up unto, but alſo her ear<g ref="char:EOLhyphen"/>neſt
+<pb facs="tcp:120006:9"/> perſwading you to accept of that call from God to ſerve your Countrey and Kingdome in that publick military im<g ref="char:EOLhyphen"/>ployment which the unanimous conſent of the well-affected had caſt upon you: often pro<g ref="char:EOLhyphen"/>feſſing, that in this cauſe, ſhee could as freely truſt God with you in a ſhowre of bullets, as of raine; being fully perſwa<g ref="char:EOLhyphen"/>ded that the Lord could as ea<g ref="char:EOLhyphen"/>ſily protect you in the one, as in the other.</p>
+            <p>Shee was a woman of a pub<g ref="char:EOLhyphen"/>lick ſpirit, truely ſympathizing with the miſeries of theſe ſad times; never thinking it was or could be well with her ſelfe or hers, whileſt it was ſo ill with the deer Saints and
+<pb facs="tcp:120006:9"/> people of God, both in the greateſt part of our owne King<g ref="char:EOLhyphen"/>dome, and in many places elſe<g ref="char:EOLhyphen"/>where.</p>
+            <p>And as ſhee was exemplary in her life, ſo was ſhee conſo<g ref="char:EOLhyphen"/>latory in her ſickneſſe and death. With what a contented and thankfull frame of ſpirit ſhee did bear this her laſt viſitation, as her conſtant demeanour in generall did evidently declare; ſo in particular, I may inſtance in thoſe laſt expreſſions which (according to my beſt intelli<g ref="char:EOLhyphen"/>gence) ſhee breathed out not long before her laſt breath, when one of them that watch<g ref="char:EOLhyphen"/>ed with her (laying her eare to hearken what ſhee ſpake) heard theſe words once and a<g ref="char:EOLhyphen"/>gaine
+<pb facs="tcp:120006:10"/> uttered, <hi>What ſhall I ren<g ref="char:EOLhyphen"/>der to the Lord for all his mercies? What ſhall I render to the Lord for all his mercies?</hi>
+            </p>
+            <p>Sir, I could eaſily herein enlarge my ſelfe, without ex<g ref="char:EOLhyphen"/>ceeding the bounds of truth, or intrenching upon the borders of flatterie, both which I ab<g ref="char:EOLhyphen"/>horre: But I conceive it very unſeemly to prefix a long E<g ref="char:EOLhyphen"/>piſtle before a ſhort Sermon; Therefore I ſhall humbly crave liberty to ceaſe writing to you, engaging my ſelfe (upon all occaſions) not to omit praying for you, That the Lord would pleaſe to ſanctifie this your great loſſe to your abundant ſpirituall advantage. This is and ſhall be the earneſt requeſt
+<pb facs="tcp:120006:10"/> (at the Throne of Grace) of him, who cordiallly ſubſcri<g ref="char:EOLhyphen"/>beth himſelfe</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Worſhips reall friend, (and ſervant for the good of your ſoul) <hi>THO. BURROUGH.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:120006:11"/>
+            <pb n="1" facs="tcp:120006:11"/>
+            <head>CHRIST THE S<hi rend="sup">ts</hi> ADVANTAGE <hi>both</hi> IN LIFE AND DEATH.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ee are met to ſolem<g ref="char:EOLhyphen"/>nize the memoriall of our dear friend, that vertuous Gentlewo<g ref="char:EOLhyphen"/>man the Lord hath lately taken from us; deſiring to improve our beſt indeavours to make ſome ſpirituall advantage of this our great loſſe. If ever there
+<pb n="2" facs="tcp:120006:12"/> was a time when that ſad complaint of the Prophet <hi>Iſaiah</hi> might be ta<g ref="char:EOLhyphen"/>ken up, <hi>viz. The righteous are taken away from the evill to come, Iſa.</hi> 57.1, 'tis ſurely now. If ever the ſurviving Saints might fear that their dear de<g ref="char:EOLhyphen"/>ceaſed Chriſtian friends were taken away from future evils, then ſurely may we now in theſe ſad times. May we not fear there is ſtill a ſtorm ap<g ref="char:EOLhyphen"/>proaching, when the Lord houſeth his friends? And that a night of trouble and perplexity draweth nigh, when the great God (as I may with reverence ſo ſpeak) diſpatcheth his children to bed, and thus layeth his beloved ones to ſleep?</p>
+            <p>Providence hath choſen my Text for mee, and I have willingly ſub<g ref="char:EOLhyphen"/>mitted to it. When it pleaſed the Lord to take away this our deare friend, I may truely ſay, my wonned ſleep (that night immediately enſu<g ref="char:EOLhyphen"/>ſuing) departed from mine eyes; and
+<pb n="3" facs="tcp:120006:12"/> in the ſilent time of the night did my phantaſie continually preſent her ſpeaking unto me with her accuſto<g ref="char:EOLhyphen"/>med lively voyce, <hi>Chriſt is to mee gain both in life and death:</hi> whereup<g ref="char:EOLhyphen"/>on I reſolved (for this time and oc<g ref="char:EOLhyphen"/>caſion) to fix my thoughts upon that portion of Scripture to which I ſhall now crave your attention, as it is up<g ref="char:EOLhyphen"/>on record,</p>
+            <q>
+               <p>
+                  <label>(The TEXT.)</label>
+               </p>
+               <p>
+                  <bibl>
+                     <hi>PHILIP. 1.21.</hi>
+                  </bibl> For to mee, to live is Chriſt, and to die is gain:</p>
+               <p>
+                  <hi>Or, as the</hi> Geneva <hi>Tranſlation rea<g ref="char:EOLhyphen"/>deth it,</hi>
+               </p>
+               <p>Chriſt is to mee both in life and death advantage.</p>
+            </q>
+            <p>THe Apoſtle <hi>Paul,</hi> when hee wrote this Epiſtle, was priſoner at Rome: which the Philippians un<g ref="char:EOLhyphen"/>derſtanding, (having formerly re<g ref="char:EOLhyphen"/>ceived
+<pb n="4" facs="tcp:120006:13"/> the Goſpel by his miniſtery) ſend <hi>Epaphroditus</hi> their miniſter to viſit him; and by <hi>Epaphroditus</hi> ſend reliefe to his neceſſities. Whereup<g ref="char:EOLhyphen"/>on <hi>Paul</hi> taketh occaſion to write this Epiſtle to them. In the begin<g ref="char:EOLhyphen"/>ning whereof (after his ſalutations) he giveth thanks to God in the be<g ref="char:EOLhyphen"/>halfe of the Philippians, for their <hi>communion and fellowſhip in the Go<g ref="char:EOLhyphen"/>ſpel;</hi> confirming them with an aſſu<g ref="char:EOLhyphen"/>red confidence, that <hi>the ſame God who</hi> had <hi>begun that good work in them, would alſo perfect it unto the end.</hi> And to this purpoſe he prayeth for them, that they might <hi>increaſe daily in the knowledge of God, and abound in the fruits of righteouſneſſe.</hi> But fearing leſt his preſent bonds and impriſon<g ref="char:EOLhyphen"/>ments might be an occaſion of diſ<g ref="char:EOLhyphen"/>couragement to any of them, hee tels them that the cauſe of his im<g ref="char:EOLhyphen"/>priſonment was well known both in <hi>Nero</hi>'s Palace, and to the Citizens
+<pb n="5" facs="tcp:120006:13"/> of Rome: yea, his ſufferings had been ſo farre from hindering, that they had helped much towards the progreſſe of the Goſpel; for many through his bonds had ſearched more into the cauſe of his ſufferings, and were grown more bold and con<g ref="char:EOLhyphen"/>fident in the profeſſion of the Go<g ref="char:EOLhyphen"/>ſpel. And although there were ſome that preacht Chriſt <hi>out of envie and contention, ſuppoſing to add affliction to</hi> his <hi>bonds;</hi> yet hee there<g ref="char:EOLhyphen"/>in rejoyced. How theſe thought to adde affliction to his bonds, Ex<g ref="char:EOLhyphen"/>poſitors doe not abſolutely reſolve us: Some think that they did a<g ref="char:EOLhyphen"/>dulterate and corrupt the Doctrine of the Goſpel, mixing it with di<g ref="char:EOLhyphen"/>vers erroneous tenents, ſuch as they conceived might render <hi>Paul</hi> more odious in the eyes of authority, and ſo they thought to adde affliction to his bonds. Others are of opi<g ref="char:EOLhyphen"/>nion, that they obſerving what high
+<pb n="6" facs="tcp:120006:14"/> place and eſteem <hi>Paul</hi> had in the hearts and affections of the godly by preaching Chriſt: they reſolved that they would alſo preach Chriſt, thinking thereby to eclipſe and ob<g ref="char:EOLhyphen"/>ſcure his fame. But what-ever was their intent, in <hi>Paul</hi> wee have a pattern of a truely Heroick and heavenly ſpirit: Hee was willing to be debaſed that Chriſt might there<g ref="char:EOLhyphen"/>by be exalted. <hi>Chriſt is preached,</hi> ſaith hee, <hi>and therein I rejoyce, v.</hi> 20. Knowing that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>According to my earncſt expe<g ref="char:EOLhyphen"/>ctation:</hi> an expectation with lifting up the head, or ſtretching out the neck, as one that looketh for the coming of ſome ſpeciall friend, whoſe company he much delighteth in; ſo much the word importeth. Such an earneſt expectation and aſ<g ref="char:EOLhyphen"/>ſured hope had <hi>Paul,</hi> that Chriſt ſhould be magnified by him either by life or death: And upon this per<g ref="char:EOLhyphen"/>ſwaſion
+<pb n="7" facs="tcp:120006:14"/> hee findeth it difficult to determine whether to make choice of life or death. His life and abode was better for the Philippians; but for himſelfe it was far better to be diſſolved, and to be with Chriſt. If I live (ſaith hee) I have devoted my life to Chriſt; if I die, I am fully perſwaded that Chriſt ſhall be mag<g ref="char:EOLhyphen"/>nified by my death. Therefore, <hi>Whe<g ref="char:EOLhyphen"/>ther I live or die, Chriſt ſhall be to mee advantage.</hi>
+            </p>
+            <p>The words are a triumphant ma<g ref="char:EOLhyphen"/>nifeſtation of that benefit and com<g ref="char:EOLhyphen"/>fort which <hi>Paul</hi> did aſſuredly expect to finde from Chriſt both in life and death. Which words (as I con<g ref="char:EOLhyphen"/>ceive) not needing any further ex<g ref="char:EOLhyphen"/>plication, hold forth this Propoſi<g ref="char:EOLhyphen"/>tion.</p>
+            <div type="doctrine">
+               <head>
+                  <hi>DOCT.</hi> That the Lord Jeſus Chriſt is a be<g ref="char:EOLhyphen"/>leevers greateſt advantage and beſt comfort both in life and death.</head>
+               <pb n="8" facs="tcp:120006:15"/>
+               <p>
+                  <hi>To mee to live is Chriſt, and to die is gain:</hi> Chriſt is my comfort both in life and death. If I live, <hi>the life that I leade is by faith in Chriſt:</hi> If I die, Chriſt ſhall be to mee advan<g ref="char:EOLhyphen"/>tage: yea, it is farre better for mee to be with Chriſt. So affectionate<g ref="char:EOLhyphen"/>ly deſirous of enjoying ſtill more communion with Chriſt was this bleſſed Apoſtle, that hee tels the Corinthians, <hi>I deſire to know nothing among you but Chriſt, and him cru<g ref="char:EOLhyphen"/>cified:</hi> 1 <hi>Cor.</hi> 2.2. No, not at Co<g ref="char:EOLhyphen"/>rinth a City of Greece, a famous and learned City: yet hee deſired (even among them) to know not a <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, not a tittle of any thing but Chriſt, and him crucified. The ſame Apoſtle telleth the Coloſſians, that all outward priviledges and excel<g ref="char:EOLhyphen"/>lencies without Chriſt are nothing, they cannot all make a man hap<g ref="char:EOLhyphen"/>py, nor render him acceptable in the ſight of God: no, it is <hi>Chriſt
+<pb n="9" facs="tcp:120006:15"/> that is all in all, Coloſſ.</hi> 3.11. A ti<g ref="char:EOLhyphen"/>tle, an intereſt in a Chriſt can onely doe this. <hi>Wee are made accepted in the Beloved, Epheſ.</hi> 1.6. Againe, if you look forward into this Epiſtle written to the Philippians, you ſhall finde the Apoſtle diſrobing himſelfe of all outward priviledges: he was one of a good Family, excellent parts, one of the ſtricteſt Sect of the Phariſees; yet (ſaith hee) <hi>I account all theſe loſſe in reſpect of Chriſt.</hi> I account my time loſt that was ſpent in theſe things: I account them but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, offall, garbage, and filth that is thrown out to dogs. Things they are indeed that may entice the dogs of the world, but alas, to mee (ſaith the Apoſtle) they are things of no value. Such ſweet comforts have the Saints found in Chriſt, that <hi>Chryſoſtome</hi> ſaith, <hi>The Name of Je<g ref="char:EOLhyphen"/>ſus hath a thouſand treaſures of joy and comfort in it.</hi> And it is uſed by
+<pb n="10" facs="tcp:120006:16"/> 
+                  <hi>Paul</hi> (as ſome have reckoned) no leſſe then five hundred times. Thus <hi>Moſes,</hi> that holy man of God, e<g ref="char:EOLhyphen"/>ſteemed reproaches for Chriſt great<g ref="char:EOLhyphen"/>er riches then the treaſures of E<g ref="char:EOLhyphen"/>gypt. But how could thoſe many opprobrious and contumelious ſpee<g ref="char:EOLhyphen"/>ches which the Hebrewes (at that time in a ſtrange land) were ſubject unto, be ſaid to be the reproaches of Chriſt, or for Chriſt, when Chriſt was not yet born? For anſwer to this, yee know that Chriſt was the <hi>Lamb ſlain from the beginning of the world.</hi> Hee hath ever been afflicted from the beginning of the world. The afflictions of the Church are called the rebukes of Chriſt: when the Saints are rebuked and perſecu<g ref="char:EOLhyphen"/>ted, Chriſt is perſecuted; and theſe <hi>Moſes</hi> accounts greater riches then the treaſures of Egypt: Mocks and taunts, baniſhment, impriſonment, loſſe of goods, burning at a ſtake for
+<pb n="11" facs="tcp:120006:16"/> the Name of Chriſt; theſe are great<g ref="char:EOLhyphen"/>er riches then all the treaſures in the world without Chriſt, and ought to be ſo eſteemed. <hi>I rec<g ref="char:EOLhyphen"/>kon,</hi> ſaith the Apoſtle <hi>Rom.</hi> 8.18. or upon juſt reaſoning I conclude, <hi>that all the ſufferings of this world are not worthy to bee compared with the glory which ſhall be revealed in us:</hi> they are too light to be weighed with that glory. The glory which the Saints ſhall have with Chriſt in the world to come ſhall abundant<g ref="char:EOLhyphen"/>ly exceed all their ſufferings for Chriſt here. And as their glory which they ſhall receive in the world to come is incomparable, ſo their joy and conſolation which they finde in communion with Chriſt here is unſpeakable: no<g ref="char:EOLhyphen"/>thing elſe can ſatisfie or content them. Should a Chriſtian ſend out his ſoule by way of enquiry, to knock at the door of all worldly
+<pb n="12" facs="tcp:120006:17"/> contentments, demanding whether any true ſoule-ſatisfying comfort and gain could be found in any of them; they would all give in a ne<g ref="char:EOLhyphen"/>gative anſwer: Even as wee read concerning Wiſdome, <hi>Job</hi> 28.12, 14. <hi>The depth ſaith, It is not in mee, &amp;c.</hi> ſo here of ſoul-ſatisfying comfort and gain, it will be anſwered, It is not in us.</p>
+            </div>
+            <div n="1" type="inquiry">
+               <head>
+                  <hi>Inquiry</hi> I.</head>
+               <p>If you ſhould inquire of riches, whether they cannot give ſuch ſoul-ſatisfying content: Alas, the an<g ref="char:EOLhyphen"/>ſwer is already upon record, <hi>Riches availe not in the day of wrath: but righteouſneſſe delivereth from death, Pro.</hi> 11.4. from the ſting and curſe of the firſt death, and altogether freeth from the ſecond death. Tis righ<g ref="char:EOLhyphen"/>teouſneſſe; but what righteouſ<g ref="char:EOLhyphen"/>neſſe? Surely, none other but the righteouſneſſe of God by faith in
+<pb n="13" facs="tcp:120006:17"/> Chriſt: That righteouſneſſe, which in regard of working, was the righ<g ref="char:EOLhyphen"/>teouſneſſe of Chriſt, <hi>Rom.</hi> 5.18. and in regard of the imputing or ap<g ref="char:EOLhyphen"/>propriating of it, is called <hi>the righ<g ref="char:EOLhyphen"/>teouſneſſe of God, Rom.</hi> 3.21. <hi>Philip.</hi> 3.9. <hi>Paul</hi> durſt not ſtick to a le<g ref="char:EOLhyphen"/>gall and duty-righteouſneſſe: this will not ſtay the ſoule, nor quiet the conſcience in times of deep di<g ref="char:EOLhyphen"/>ſtreſſe; but it muſt be a better, an higher righteouſneſſe, even the righ<g ref="char:EOLhyphen"/>teouſneſſe of Chriſt. This is the righteouſneſſe that God will ac<g ref="char:EOLhyphen"/>cept, and that will afford quiet peace unto the ſoule. This is that righteouſneſſe that will deliver from death.</p>
+            </div>
+            <div n="2" type="inquiry">
+               <head>
+                  <hi>Inquiry</hi> II.</head>
+               <p>Honours and preferments, can<g ref="char:EOLhyphen"/>not you ſtand the ſoule in ſtead in an evill day? Cannot you ſtep be<g ref="char:EOLhyphen"/>twixt Gods wrath and a troubled
+<pb n="14" facs="tcp:120006:18"/> conſcience? Alas, theſe may car<g ref="char:EOLhyphen"/>ry worth and eſtimation among men; but they are nothing in re<g ref="char:EOLhyphen"/>ference towards God. Honour is but the raiſing of the value and e<g ref="char:EOLhyphen"/>ſteem of a man here among others: And when men have done what they can, there is onely one Heral<g ref="char:EOLhyphen"/>dry that maketh the difference of men; and that is the grace of God.</p>
+               <p>
+                  <hi>Summa apud Deum Nobilitas eſt clarum eſſe virtutibus,</hi> as one ſaith well: 'Tis grace that maketh men of the blood-royall, partakers of the divine nature. The beſt Nobi<g ref="char:EOLhyphen"/>lity is the Nobility of faith, and the beſt genealogie the genealogie of good works: and they that tru<g ref="char:EOLhyphen"/>ly endeavour to honour Chriſt, them will hee honour. But for worldly honour, when it is once laid in the duſt, who can diſtin<g ref="char:EOLhyphen"/>guiſh betwixt the greateſt favourite
+<pb n="15" facs="tcp:120006:18"/> of Princes here on earth, and the pooreſt peaſant? Theſe worldly pre<g ref="char:EOLhyphen"/>ferments may adde much to the aggravation of mens condemnati<g ref="char:EOLhyphen"/>on in the day of the Lord Jeſus: but (without grace to improve them to the glory of God) they ſhall never adde to their conſolation. Theſe cannot (of themſelves) yeeld any true ſoule-ſatisfying comfort in time of diſtreſſe.</p>
+            </div>
+            <div n="3" type="inquiry">
+               <head>
+                  <hi>Inquiry</hi> III.</head>
+               <p>Wife and children (thoſe dear delights of men here upon earth) can you afford no ſoule-ſatisfy<g ref="char:EOLhyphen"/>ing comfort in a time of ſpiritu<g ref="char:EOLhyphen"/>all diſtreſſe? Theſe, theſe indeed, are ſweet comforts whileſt injoy<g ref="char:EOLhyphen"/>ed with the favour of God in Chriſt; as that bleſſed Martyr ac<g ref="char:EOLhyphen"/>knowledged, who being asked wh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her did love his Wife and
+<pb n="16" facs="tcp:120006:19"/> children (hee ſeeming ſo willing to leave them to die for the name of Chriſt;) Yea, (ſaith hee) ſo deer are my wife and children to mee, that (were the whole world mine) I would give it to live with them, though it were but in priſon: But if either I muſt forſake them, or deny Chriſt, were they a thouſand times dearer, I would willingly leave them. Deereſt friends, chief<g ref="char:EOLhyphen"/>eſt delights (coming in competiti<g ref="char:EOLhyphen"/>on with Chriſt) muſt be diſregard<g ref="char:EOLhyphen"/>ed. In this caſe wee muſt <hi>Patrem calcare, &amp;c.</hi> as <hi>Jerome</hi> ſpeaketh; wee muſt trample upon father, and caſt away mother: we muſt know no relation ſo as to hinder us from Chriſt. Hee that doth not thus hate father and mother, and wife and children, in reſpect of Chriſt, is not worthy of Chriſt.</p>
+               <p>Thus you ſee (upon inquiry) that there is no ſoule-ſatisfying
+<pb n="17" facs="tcp:120006:19"/> comfort to be found on this ſide Chriſt. As every thing moveth to<g ref="char:EOLhyphen"/>wards its owne proper center, and is not at reſt untill it come thi<g ref="char:EOLhyphen"/>ther: ſo the ſoule of a true be<g ref="char:EOLhyphen"/>leever inclineth and moveth to<g ref="char:EOLhyphen"/>wards Chriſt, and never reſteth con<g ref="char:EOLhyphen"/>tented untill it come to Chriſt, and hath the fruition of Chriſt. As <hi>Noah</hi>'s Dove found no reſt untill ſhee returned to the Ark; and as the Bee findeth no reſt untill ſhee returne to the hive: ſo the ſoule that truely deſireth communion with Chriſt, can meet with no true con<g ref="char:EOLhyphen"/>tentation but in Chriſt: As <hi>David</hi> ſweetly, <hi>Returne unto thy reſt, O my ſoule, for the Lord hath dealt bountifully with thee.</hi> The reconciled face and favour of God in Chriſt is the onely true reſt of the ſoule: The ſoule is reſtleſſe untill it finde this reſt.</p>
+               <p>Now, as you have ſeen that
+<pb n="18" facs="tcp:120006:20"/> there is no true comfort to be found in any enjoyment on this ſide Chriſt: So wee ſhall endea<g ref="char:EOLhyphen"/>vour to give in ſome arguments to prove, That it is Chriſt alone in whom this comfort is wrapped up.</p>
+               <p>
+                  <hi>That the Lord Jeſus Christ is a beleevers greateſt advantage and beſt comfort both in life and death.</hi>
+               </p>
+            </div>
+            <div n="1" type="reason">
+               <head>REAS. 1.</head>
+               <p>Becauſe Chriſt onely can free the ſoule from the greateſt evill, from the greateſt burthen here in this life. What is it that maketh the life of many a poor ſoule to be as bitter as death it ſelfe, that maketh them to walk mournfully, and (<hi>Rachel</hi>-like) refuſe to be com<g ref="char:EOLhyphen"/>forted? Is it not ſenſe of ſinne, and the weight of remaining cor<g ref="char:EOLhyphen"/>ruption? Doth not this conſtraine
+<pb n="19" facs="tcp:120006:20"/> the poor wearied ſoule to cry out, <hi>O wretched man that I am, &amp;c.?</hi> Now it is Chriſt alone that can eaſe this burthen: <hi>I thanke God through Chriſt</hi> (ſaith the Apoſtle.) <hi>Hee hath borne our griefes, and car<g ref="char:EOLhyphen"/>ried our ſorrowes,</hi> ſaith the Prophet, <hi>Iſai.</hi> 53.4. Wee are naturally dead in ſinnes and treſpaſſes, 'tis he that <hi>hath quickened us.</hi> Wee have <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>an hand-writing againſt us;</hi> 'tis hee alone that <hi>hath taken it a<g ref="char:EOLhyphen"/>way, and nailed it on his croſſe.</hi> We are ſubject to the <hi>power of dark<g ref="char:EOLhyphen"/>neſſe;</hi> 'tis hee that <hi>hath ſpoyled prin<g ref="char:EOLhyphen"/>cipalities and powers, Coloſſ.</hi> 2.15. Hee hath diſarmed Sathan of all power (finally) to hurt his elect. It is Chriſt alone that can free the ſoule not onely from the guilt and puniſhment of ſinne, but alſo from the power and dominion of ſinne. <hi>Hee was made ſinne for us,</hi> (that is, by imputation) <hi>that wee might be
+<pb n="20" facs="tcp:120006:21"/> made the righteouſneſſe of God in him;</hi> 2 <hi>Cor.</hi> 5.21.</p>
+               <p>God in his eternall councell ap<g ref="char:EOLhyphen"/>pointed Chriſt to be ſurety for his elect, and for his righteouſneſſe ſake to accept of them, as if they had been perfectly righteous in them<g ref="char:EOLhyphen"/>ſelves. <hi>Whom hee hath ſet forth</hi> (ſaith the Apoſtle) <hi>to be a propitiation for ſinne, Rom.</hi> 3.25. The originall word [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] ſheweth the ever<g ref="char:EOLhyphen"/>laſting purpoſe of God to give his Sonne for the redemption of his elect. So the ſame word is uſed <hi>Rom.</hi> 8.28. Chriſt was <hi>deſigned</hi> to this work of propitiation; that is, to bring his elect againe into grace and favour with God: which hee performed, By the merit of his death; By the obedience of his life; And alſo by the holineſſe and purity of his birth and concepti<g ref="char:EOLhyphen"/>on.</p>
+               <p n="1">1. By the merit of his death;
+<pb n="21" facs="tcp:120006:21"/> ſubmitting himſelfe to the whole curſe of God deſerved by their ſinnes, and ſtanding in the gappe (as it was ſaid of <hi>Moſes</hi>) ſo bea<g ref="char:EOLhyphen"/>ring the brunt of Gods fiery wrath and indignation, and thereby re<g ref="char:EOLhyphen"/>moving from them whatſoever Wrath or Juſtice could be offend<g ref="char:EOLhyphen"/>ed at.</p>
+               <p n="2">2. By the obedience of his life; in fulfilling Gods moſt righteous Law, by yeelding perfect and entire obedience, whereby they are accoun<g ref="char:EOLhyphen"/>ted juſt and righteous.</p>
+               <p>And 3. By the holineſſe and pu<g ref="char:EOLhyphen"/>rity of his conception and birth imputed unto them; whereby they are accounted perſonally as holy and pure (in the ſight of God) as if they themſelves had been con<g ref="char:EOLhyphen"/>ceived and born without ſpot of ſinne. And this holineſſe and pu<g ref="char:EOLhyphen"/>rity of Chriſts humane nature is no leſſe reckoned to beleevers for heal<g ref="char:EOLhyphen"/>ing
+<pb n="22" facs="tcp:120006:22"/> their defiled nature, then his obedience and ſuffering for re<g ref="char:EOLhyphen"/>miſſion of actuall ſinnes, and ac<g ref="char:EOLhyphen"/>quitting them from eternall de<g ref="char:EOLhyphen"/>ſtruction. And to this purpoſe ſaith the Apoſtle, <hi>Chriſt is made to us of God, Wiſedome, Righteouſ<g ref="char:EOLhyphen"/>neſſe, Sanctification, and Redemption,</hi> 1 <hi>Cor.</hi> 1.30. CHRIST is made (to ſuch as beleeve in him) not onely Righteouſneſſe in reſpect of his perfect fulfilling the Law of GOD for them; but Sanctifica<g ref="char:EOLhyphen"/>tion alſo, in reſpect of his holi<g ref="char:EOLhyphen"/>neſſe, innocency, and moſt per<g ref="char:EOLhyphen"/>fect purity of his holy and ſan<g ref="char:EOLhyphen"/>ctified nature. Thus there is from CHRIST made over to the true be<g ref="char:EOLhyphen"/>leever, whatever is needfull to his full and perfect juſtification in the ſight of GOD.</p>
+               <p>Firſt, There is merit and paſſion upon the Croſſe, anſwer<g ref="char:EOLhyphen"/>ing for that curſe and torment
+<pb n="23" facs="tcp:120006:22"/> which hee deſerved.</p>
+               <p>Secondly, Integrity and obedi<g ref="char:EOLhyphen"/>dience of life, anſwering for his diſo<g ref="char:EOLhyphen"/>bedience.</p>
+               <p>Thirdly, Perfect purity of na<g ref="char:EOLhyphen"/>ture, anſwering for the impurity of his corrupt nature.</p>
+               <p>Now, what greater comfort can there be to a beleeving ſoule, then to have all his ſinnes diſ<g ref="char:EOLhyphen"/>charged and blotted out, and him<g ref="char:EOLhyphen"/>ſelfe acquitted in the ſight of God, and accounted as holy and pure, as if hee had been concei<g ref="char:EOLhyphen"/>ved and born without ſinne? And to finde all his ſinnes (in CHRIST) not onely pardoned, but alſo o<g ref="char:EOLhyphen"/>verpowred: and himſelfe daily by degrees changed from one ſteppe of glorious excellency to another, in ſinnes ruine, and gra<g ref="char:EOLhyphen"/>ces reviving, by the Spirit of the LORD? Like as that poore cripple wee reade of <hi>Acts</hi> 3. <hi>v.</hi> 8.
+<pb n="24" facs="tcp:120006:23"/> when hee was cured, hee walked into the Temple, praiſing GOD, and leaping for joy: even ſo the ſoule that findeth it ſelfe once thus ſet free by CHRIST, cannot but with much more abun<g ref="char:EOLhyphen"/>dant joy triumphantly rejoyce in the free grace and mercy of GOD in CHRIST, which hath ſet it free: yea, with a <hi>joy unſpeakable and full of glory,</hi> 1 <hi>Pet.</hi> 1. <hi>verſ.</hi> 8. None knoweth the joy that ſuch finde, but the ſoule that hath la<g ref="char:EOLhyphen"/>boured under the ſame burden, and taſted of the like freedome. A ſtranger intermedleth not with this joy.</p>
+            </div>
+            <div n="2" type="reason">
+               <head>REAS. 2.</head>
+               <p>Becauſe CHRIST onely can conferre upon the ſoule the greateſt good. What is the chief<g ref="char:EOLhyphen"/>eſt good that the ſoule is capable
+<pb n="25" facs="tcp:120006:23"/> of here in this life? What is it to have an heaven upon earth? Is it not to enjoy GOD? to have an intimate acquaintance with the LORD JESUS CHRIST? to enjoy the ſweet manifeſtations of his preſence, <hi>John</hi> 14. <hi>ver.</hi> 21.? Is not this the chiefeſt good, and the great requeſt of the ſoule, To be kiſſed <hi>with the kiſſes of</hi> CHRIST'S <hi>mouth, Cant.</hi> 1. <hi>v.</hi> 1.? The ſweet intimations of CHRIST'S love to the ſoule are <hi>good more then wine:</hi> better then what-ever elſe can comfort. For CHRIST to take the ſoule into his banquet<g ref="char:EOLhyphen"/>ting-houſe, <hi>Cant.</hi> 2. <hi>v.</hi> 4. to com<g ref="char:EOLhyphen"/>municate unto it largely the rich graces and treaſures of his bleſ<g ref="char:EOLhyphen"/>ſed Spirit; to leade it (as it were by the hand) into his privie chambers, and let it take a view of thoſe jewels and precious things laid up for his people: to refreſh
+<pb n="26" facs="tcp:120006:24"/> the ſoule with thoſe ſpirituall con<g ref="char:EOLhyphen"/>ſolations which exceed all out<g ref="char:EOLhyphen"/>ward troubles; and to ſpread his banner or flagge of defence over the foule; a banner againſt ſinne; Sathan, and the world, and this banner to be <hi>Love;</hi> all this, the love which CHRIST beareth to the foule: This, this ſo raviſh<g ref="char:EOLhyphen"/>eth the foule, that ſhee is <hi>ſick of love,</hi> faint and ſick with deſire of enjoying more communion with CHRIST. As <hi>Daniel,</hi> when hee had recei ed abundance of re<g ref="char:EOLhyphen"/>velations, was faint and ſick with deſire of more cleare knowledge of his viſions, and of the Chur<g ref="char:EOLhyphen"/>ches deliverance, <hi>Dan.</hi> 8. <hi>v.</hi> 27. ſo the ſoule that hath once through<g ref="char:EOLhyphen"/>ly taſted of theſe ſweet conſola<g ref="char:EOLhyphen"/>tions, is ſick after more commu<g ref="char:EOLhyphen"/>nion with CHRIST: crying out with the Spouſe, <hi>Stay mee with flagons, &amp;c. Cant.</hi> 2.5. with the
+<pb n="27" facs="tcp:120006:24"/> flagons of the wine of grace and ſpirituall conſolations which Chriſt reacheth out to the ſoules of his.</p>
+            </div>
+            <div n="3" type="reason">
+               <head>REAS. 3.</head>
+               <p>Becauſe CHRIST onely can fit a Chriſtian for all eſtates and conditions, for all changes and alterations: CHRIST can teach the ſoule humility in pro<g ref="char:EOLhyphen"/>ſperity, patience in affliction; yea, not onely ſo, but alſo to rejoyce and glory in tribulations. To glory is to have a kinde of inſul<g ref="char:EOLhyphen"/>ting over them, to live above them, to undervalue them, to ſet light by them. And not onely to triumph over ſome light trials; but even <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in preſ<g ref="char:EOLhyphen"/>ſing afflictions, <hi>in tribulations, Roman.</hi> 5. <hi>ver.</hi> 3. The preſence of CHRIST carrieth the ſoule a<g ref="char:EOLhyphen"/>bove all the troubles of the world,
+<pb n="28" facs="tcp:120006:25"/> and ſets it upon that rock that is higher then all outward diſ<g ref="char:EOLhyphen"/>couragements. 'Tis CHRIST a<g ref="char:EOLhyphen"/>lone that can teach the ſoul how to reſt content in every conditi<g ref="char:EOLhyphen"/>on: <hi>I have learned,</hi> ſaith <hi>Paul</hi> (and ſurely it is a bleſſed art) <hi>in whatſoever eſtate I am, therewith to be content, Philipp.</hi> 4.11. But this knowledge hee tels us, hee obtained from CHRIST; <hi>I can doe all things through CHRIST that enableth mee.</hi>
+               </p>
+            </div>
+            <div n="4" type="reason">
+               <head>REAS. 4.</head>
+               <p>Becauſe CHRIST onely can ſweeten death, and enable the ſoule couragiouſly to encounter that enemy which <hi>Aristotle</hi> cal<g ref="char:EOLhyphen"/>leth <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, The moſt Terrible of Terribles; and <hi>Bildad</hi> (one of <hi>Jobs</hi> friends) <hi>The King of terrours;</hi> when Sathan (as
+<pb n="29" facs="tcp:120006:25"/> uſually hee doth in his laſt and greateſt aſſault) ſendeth in his accuſations like the waves of the ſea, or like <hi>Jobs</hi> meſſen<g ref="char:EOLhyphen"/>gers, one in the neck of the o<g ref="char:EOLhyphen"/>ther, ſeeking to ſwallow up the ſoule in the gulfe of utter de<g ref="char:EOLhyphen"/>ſpaire; preſenting unto the ſoule (as it were in one view) the ſight of the ſinnes of her whole life, together with all the aggra<g ref="char:EOLhyphen"/>vating circumſtances. Now it is CHRIST alone that can (and at this time uſually doth) ſtep in and reſcue the ſoule, ta<g ref="char:EOLhyphen"/>king away the captive out of the power of the enemy: CHRIST now ſmileth upon the ſoule, let<g ref="char:EOLhyphen"/>ting her feel the ſweetneſſe that redoundeth to the beleever by his bitter ſufferings. Hee ena<g ref="char:EOLhyphen"/>bleth the foule by faith to caſt anchour in heaven; to ſtay it
+<pb n="30" facs="tcp:120006:26"/> ſelfe upon the alone and all ſufficient merits of the LORD JESUS. And now the ſoule dares challenge death, hell, and Divels: <hi>Who can lay any thing to the charge of GOD's Elect! 'Tis CHRIST that died; yea, rather that is riſen againe for their juſtification.</hi>
+               </p>
+            </div>
+            <div n="1" type="application">
+               <head>USE 1.</head>
+               <p>The firſt Uſe wee deſire to make of this point may be to diſcover the vanity of all other comforts. All comforts with<g ref="char:EOLhyphen"/>out CHRIST are but ſeem<g ref="char:EOLhyphen"/>ing comforts: they are (at the beſt) but bitter-ſweets; there is farre more gall then honey in the beſt of them. All other com<g ref="char:EOLhyphen"/>forts, without CHRIST, are but like a lamp without oyle,
+<pb n="31" facs="tcp:120006:26"/> or a bone without marrow. Without CHRIST the ſoule meeteth with emptineſſe in the greateſt worldly fulneſſe. 'Tis CHRIST <hi>that filleth all in all. Epheſ.</hi> 1.23. He putteth fulneſſe of content and ſatisfaction into all the things that his ſervants enjoy: <hi>The righteous eateth to the ſatisfying of his ſoule, Prov.</hi> 13.25. If hee have much, hee bleſſeth GOD for it, and la<g ref="char:EOLhyphen"/>boureth to improve it to his glory; if little, hee is thank<g ref="char:EOLhyphen"/>full for it, and content with it. Godlineſſe carrieth a ſelfe-ſuffi<g ref="char:EOLhyphen"/>ciencie along with it: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 1 <hi>Timoth.</hi> 6. <hi>ver.</hi> 6.</p>
+               <p>Other things without CHRIST may carry a ſhew of happineſſe in them; but indeed and in truth, there is no true reall content
+<pb n="32" facs="tcp:120006:27"/> and ſoule-ſatisfying comfort to be found in them. The glory of the greateſt that want CHRIST, doth many times decay before them; at the ut<g ref="char:EOLhyphen"/>moſt it dyeth with them: when they goe from their houſe to the grave their glory ſhall not deſcend after them.</p>
+               <p>It is not the quinteſſence of all things here below, without the fruition of CHRIST with them, and in them, that can make a man happy. Men doe but dreame of a contentedneſſe in them: They are but a meer image and repreſentation: All worldly pomp is but a phanta<g ref="char:EOLhyphen"/>ſie: <hi>Agrippa</hi> and <hi>Bernice</hi> came <hi>with great pomp,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Acts</hi> 25.23. Theſe things are not ſo excellent as men think them to be. But truely
+<pb n="33" facs="tcp:120006:27"/> happy, and aſſuredly bleſſed is that ſoule that enjoyeth com<g ref="char:EOLhyphen"/>munion with the LORD JE<g ref="char:EOLhyphen"/>SUS CHRIST; that can tru<g ref="char:EOLhyphen"/>ly ſay with <hi>Paul, CHRIST is to mee both in life and death advantage.</hi>
+               </p>
+            </div>
+            <div n="2" type="application">
+               <head>USE 2.</head>
+               <p>Secondly, This may be an Uſe of Inſtruction, to teach Chri<g ref="char:EOLhyphen"/>ſtians ſeriouſly to take notice of the happy eſtate and condition of every ſoul reconciled to GOD in CHRIST: The LORD JESUS is all the ſweetneſſe that the ſoules of his can deſire: Hee is honey in the mouth, muſick in the eare, and a Ju<g ref="char:EOLhyphen"/>bilee in the heart (ſaith <hi>Ber<g ref="char:EOLhyphen"/>nard).</hi>
+               </p>
+               <p>Look upon one of GOD's
+<pb n="34" facs="tcp:120006:28"/> reconciled ones in his moſt af<g ref="char:EOLhyphen"/>flicted eſtate, when hee is moſt eſtranged from all worldly com<g ref="char:EOLhyphen"/>forts, yet in the midſt of all his outward wants and ſufferings, hee is truely happy by enjoying communion with GOD in CHRIST.</p>
+               <p>Let a mans outward conditi<g ref="char:EOLhyphen"/>on be what it can; yet in en<g ref="char:EOLhyphen"/>joying GOD, the ſoule enjoy<g ref="char:EOLhyphen"/>eth what-ever is neceſſary and conducible to her comfort and happineſſe. All comforts are in GOD as in the fountaine and ſpring; all are primarily in him. That which the Apoſtle ſpeak<g ref="char:EOLhyphen"/>eth to this purpoſe (a <hi>Corinth.</hi> 6. <hi>ver.</hi> 10.) is a ſtrange Paradox to a naturall man, <hi>As having nothing, and yet poſſeſſing all things.</hi> In enjoying GOD, the beleever enjoyeth all; even in
+<pb n="35" facs="tcp:120006:28"/> that GOD who can not onely command, but alſo create com<g ref="char:EOLhyphen"/>forts. Although the Lord ma<g ref="char:EOLhyphen"/>ny times leadeth his people in<g ref="char:EOLhyphen"/>to the wilderneſſe, yet even there will hee ſpeake comforta<g ref="char:EOLhyphen"/>bly unto them, <hi>Hoſ.</hi> 2. <hi>verſ.</hi> 14. GOD uſually giveth in moſt of himſelfe to his when they are moſt deſtitute of outward com<g ref="char:EOLhyphen"/>forts: The LORD dealing (in this regard) with his peo<g ref="char:EOLhyphen"/>ple as Phyſicians with their Pa<g ref="char:EOLhyphen"/>tients; who keep their choyceſt cordialls for fainting fits. Thou<g ref="char:EOLhyphen"/>ſands (I am confident) of im<g ref="char:EOLhyphen"/>priſoned and plundered Saints can experimentally ſpeake to the truth of this. It is but the fulfilling of that promiſe of him who is Truth it ſelfe; who hath engaged himſelfe to be preſent with his in their greateſt
+<pb n="36" facs="tcp:120006:29"/> ſtreights, <hi>When thou paſſeſt tho<g ref="char:EOLhyphen"/>row the waters, I will be with thee, and thorow the rivers, that they ſhall not overflow thee. When thou walkeſt thorow the fire, thou ſhalt not be burnt, neither ſhall the flame kindle upon thee, Iſai.</hi> 43.2.</p>
+               <p>Whither will the childe feare to goe whileſt it is in the fa<g ref="char:EOLhyphen"/>thers armes. <hi>Though I walke thorow the valley of the ſhadow of death</hi> (ſaith <hi>David) yet will I feare none evill: for thou art with me, Pſal.</hi> 23.4. CHRIST's preſence maketh amends for all. Hee is ſo eminently and tran<g ref="char:EOLhyphen"/>ſcendently good, that what-ever is wanting in the creature, is ſupplyed out of his bleſſed ſelfe. If food be wanting to his to feed them, if clothes to cover and keep them warme; yet hee
+<pb n="37" facs="tcp:120006:29"/> is equivalently good; yea, bet<g ref="char:EOLhyphen"/>ter to them then all theſe, or whatſoever elſe they can ſtand in need of. O ſtand ſtill then and ſeriouſly take notice of the happy eſtate of a ſoule recon<g ref="char:EOLhyphen"/>ciled to GOD in CHRIST; all outward troubles cannot hin<g ref="char:EOLhyphen"/>der his joy, nor ſtoppe the entercourſe of love betwixt CHRIST and his ſoule. Hee liveth above all troubles: <hi>His life is hid with CHRIST in GOD, Coloſſ.</hi> 3. <hi>verſ.</hi> 3. Hee li<g ref="char:EOLhyphen"/>veth where hee loveth: his <hi>con<g ref="char:EOLhyphen"/>verſation is in heaven, Philip.</hi> 3. <hi>verſ.</hi> 20. All the enemies in the world cannot take away his joy: Hee may loſe houſe, goods, lands, friends; but ſtill hee hath his portion: <hi>GOD is the ſtrength of my heart, and my portion for even. Pſal.</hi> 73. <hi>ver.</hi> 26.
+<pb n="38" facs="tcp:120006:30"/> All the powers of hell, and all the enemies in the world are not able to take away his com<g ref="char:EOLhyphen"/>fort: They may ſtrip him na<g ref="char:EOLhyphen"/>ked of all the comforts of this life; yea, they may (if the LORD permit) take away life it ſelfe: but yet they cannot take away CHRIST, who is the life of his life, and the joy of his ſoule. Here is a true be<g ref="char:EOLhyphen"/>leevers conqueſt; His jewell, his treaſure, his beſt and greateſt comfort both in life and death, cannot be taken away. Ene<g ref="char:EOLhyphen"/>mies may ſeparate betwixt the body and the ſoule, but ne<g ref="char:EOLhyphen"/>ver betwixt the ſoule and CHRIST.</p>
+            </div>
+            <div n="3" type="application">
+               <head>USE 3.</head>
+               <p>Thirdly, This may diſcover
+<pb n="39" facs="tcp:120006:30"/> unto us the deſperate folly of thoſe who are ſollicitouſly care<g ref="char:EOLhyphen"/>full after the things of this world, and in the meane time altogether careleſſe concerning that which they ought princi<g ref="char:EOLhyphen"/>pally to labour after, never truely ſeeking after communion with GOD in CHRIST. Of ſuch wee may juſtly take up that complaint, <hi>Yee will not come un<g ref="char:EOLhyphen"/>to mee, that yee might have life, John</hi> 5. <hi>verſ.</hi> 40. They will not come to CHRIST, they will not beleeve in him, they will not roll themſelves upon him for life and ſalvation: They will not kiſſe the Sonne, they will not have CHRIST to reigne over them: To ſuch I may ſay (in the words of the holy Spirit), <hi>Why is there a price put into the hands of fools, ſeeing
+<pb n="40" facs="tcp:120006:31"/> they have not an heart to it? Why doe</hi> ſuch <hi>lay out their money for that which is not bread? (Iſa.</hi> 55. <hi>ver.</hi> 2.) for that which will not comfort in time of need? Why is the bleſſed, free and gra<g ref="char:EOLhyphen"/>tious tender of CHRIST ſo ſlenderly eſteemed, and ungrate<g ref="char:EOLhyphen"/>fully refuſed? This, this will prove <hi>The condemnation, That men love darkneſſe rather then light, John</hi> 3. <hi>ver.</hi> 19. How ſhall this muzzle the mouthes of all impenitent ſinners that have li<g ref="char:EOLhyphen"/>ved in theſe Goſpel times, who <hi>have neglected ſo great ſalvati<g ref="char:EOLhyphen"/>on</hi> as hath been held forth un<g ref="char:EOLhyphen"/>to them? How unutterably mi<g ref="char:EOLhyphen"/>ſerable ſhall the condition of ſuch be, <hi>When the LORD JE<g ref="char:EOLhyphen"/>S<g ref="char:V">Ʋ</g>S ſhall bee revealed from heaven with his mighty Angels in flaming fire, taking vengeance
+<pb n="41" facs="tcp:120006:31"/> on them that know not GOD, and obey not the Goſpel of our LORD JES<g ref="char:V">Ʋ</g>S CHRIST?</hi> 2 <hi>Theſſ.</hi> 1.7, 8.</p>
+            </div>
+            <div n="4" type="application">
+               <head>USE 4.</head>
+               <p>Fourthly, The Uſe of this in the laſt place ſhall be for ex<g ref="char:EOLhyphen"/>hortation, to exhort every one of us, that as wee deſire to finde any true, ſolid, ſoule-ſatisfying comfort either in life or death; ſo to labour now to get a title and intereſt in CHRIST. Strive to be <hi>found in CHRIST, not having any righteouſneſſe of</hi> your <hi>owne, but that which is through the faith of CHRIST, the righ<g ref="char:EOLhyphen"/>teouſneſſe which is of GOD by faith, Philipp.</hi> 3. <hi>ver.</hi> 9. Endea<g ref="char:EOLhyphen"/>vour to get ſtrong evidence to your ſoules, that you are Chriſt's,
+<pb n="42" facs="tcp:120006:32"/> and hee yours. Get the love of CHRIST ſhed abroad in your hearts, that your ſoules may be heated with the reflection of this love. Pray that your ſoules may be arreſted with the love of CHRIST; with ſuch a love as the Spouſe; mentioneth, <hi>Cant.</hi> 8. <hi>verſ.</hi> 6. <hi>A love as ſtrong as death,</hi> that conquers the greateſt giant, and mightieſt Monarch; A zeale for CHRIST as inexorable as the grave, that the coales thereof may be fiery coales, ſcor<g ref="char:EOLhyphen"/>ching coals. This love will faci<g ref="char:EOLhyphen"/>litate the greateſt difficulties, and make the Saints not to love their lives unto death. This hath made the holy Martyrs kiſſe the ſtake and joyfully embrace the flames. This made that bleſſed <hi>Ignatius,</hi> when hee heard the lions roare, (that were purpoſely kept hun<g ref="char:EOLhyphen"/>gry,
+<pb n="43" facs="tcp:120006:32"/> to the end they might more eagerly devour him) cry out, O that I were with thoſe beaſts that are prepared for mee, whom I deſire ſhould ſoon make an end of mee: but if they ſhould refuſe to touch my body (as through fear ſometimes they have abſtained from ſome of the Saints) I would provoke them to fall upon me.</p>
+               <p>Others have ſaid, Racks, ſtrappadoes, torments, are but a play to us. Flames of fire have ſeemed to them no leſſe plea<g ref="char:EOLhyphen"/>ſant then beds of downe: Thus have theſe bleſſed ſoules beene warmed, yea, inflamed with love to CHRIST. The heat and ſtrength of this love hath alſo moved the Saints, lying upon their death-beds, (even as it is reported of the Swanne) to ſing
+<pb n="44" facs="tcp:120006:33"/> before their death; and to al<g ref="char:EOLhyphen"/>lure their ſoules (as it were) to haſten out of their bodies: with old <hi>Simeon</hi> to cry out, <hi>LORD, now let thy ſervant depart in peace, Luke</hi> 2. <hi>verſ.</hi> 29. And with good <hi>Hilarian,</hi> Theſe ſeventy yeeres and upwards thou haſt ſerved the LORD; therefore now goe forth, O my ſoule with joy.</p>
+               <p>They know right well that though they die, yet the ſting is pulled out, and death to them is but a paſſage to a better life. Hence it is that they wel<g ref="char:EOLhyphen"/>come death as that bleſſed har<g ref="char:EOLhyphen"/>binger of their ſoules eternall happineſſe. This hath made them look upon the day of death as the day of harveſt to the huſ<g ref="char:EOLhyphen"/>band-man, as the day of deli<g ref="char:EOLhyphen"/>verance to the priſoner, as a day of marriage to the Bride.
+<pb n="45" facs="tcp:120006:33"/> Upon this day have the Saints looked as a day of exultation and triumph over ſinne, death, and hell: <hi>O death, Where is thy ſting? O grave, Where is thy victory?</hi> 1 <hi>Corinth.</hi> 15. <hi>ver.</hi> 55. It hath made them to long to be diſſolved, and to bee with CHRIST, which is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, farre, farre the better, <hi>Philip.</hi> 1.23. As a Re<g ref="char:EOLhyphen"/>verend Divine that I have read of, who the day before hee died, called earneſtly for the Bible, ſaying, Come, oh come, death approacheth, let us gather ſome flowers to comfort this houre. Another, Oh what an happy change ſhall I make! from night to day, from death to life, from a troubleſome world to an hea<g ref="char:EOLhyphen"/>venly reſt? Thus have many bleſſed Saints even longed for
+<pb n="46" facs="tcp:120006:34"/> death, and rejoyced at the ve<g ref="char:EOLhyphen"/>ry approaching of it: which they could never have done, had they not aſſuredly knowne that they ſhould be exceeding gain<g ref="char:EOLhyphen"/>ers by their change, had they not confidently beleeved, that when theſe earthly tabernacles ſhould be diſſolved, they ſhould have a building of GOD, not made with hands, &amp;c. Oh how doth it concern us (eſpecially in theſe cloudy dayes) to ſtrive for in<g ref="char:EOLhyphen"/>tereſt in CHRIST!</p>
+               <p>Therefore, as ever you deſire to finde any comfort in theſe ſad times, eſpecially at the hour of death, when all other com<g ref="char:EOLhyphen"/>forts ſhall take their leave; ſo labour to get a tirle and inter<g ref="char:EOLhyphen"/>eſt in CHRIST, that with <hi>Paul</hi> you may be able to ſay, <hi>CHRIST is to mee both in
+<pb n="47" facs="tcp:120006:34"/> life and death advantage.</hi>
+               </p>
+               <p>NOw concerning this Gen<g ref="char:EOLhyphen"/>tle-woman, whoſe death we have all cauſe to lament, being one who was in an eſpeciall manner inſtrumentall to the glo<g ref="char:EOLhyphen"/>ry of GOD. Although I have ever hated flattery; yet, where I finde much of GOD, I de<g ref="char:EOLhyphen"/>ſire to ſpeak ſomething to his glory.</p>
+               <p>Many things worthy of imi<g ref="char:EOLhyphen"/>tation have I (being much con<g ref="char:EOLhyphen"/>verſant with her) obſerved in her: A briefe account of ſome of them I ſhall in a word or two hint unto you:</p>
+               <p>Firſt, Shee was very conſcienti<g ref="char:EOLhyphen"/>ous in obſerving the Lords day.</p>
+               <pb n="84" facs="tcp:120006:35"/>
+               <p>Secondly, Shee was principal<g ref="char:EOLhyphen"/>ly carefull over the ſoules of her children and ſervants in her huſ<g ref="char:EOLhyphen"/>bands abſence: A lively character of a truely vertuous wife. When ſhould the Moon ſhine bright, but in the abſence of the Sun?</p>
+               <p>Thirdly, The cauſe of GOD, and the welfare of his people were moſt deer unto her.</p>
+               <p>In a word: Such was her de<g ref="char:EOLhyphen"/>meanor in her whole converſation, that I could eaſily be eloquent in ſpeaking of her; but I muſt ſet bounds to my ſelfe. God hath ta<g ref="char:EOLhyphen"/>ken her from us, I muſt ſpeake no more to her, neither ſhall I for the preſent ſpeak any more of her. But oh that what I have (or deſer<g ref="char:EOLhyphen"/>vedly might have) ſpoken of her, might provoke others to emulati<g ref="char:EOLhyphen"/>on: that you would ſtrive to walk in her pathes, that you might here<g ref="char:EOLhyphen"/>after
+<pb n="49" facs="tcp:120006:35"/> partake of her Crown.</p>
+               <p>I ſhall conclude in the words of the Apoſtle in the ſame Epiſtle wherein I began, <hi>Phil.</hi> 4.8. <hi>Finally brethren, whatſoever things are true, whatſoever things are honeſt, what<g ref="char:EOLhyphen"/>ſoever things are juſt, whatſoever things are pure, whatſoever things are of good report: if there be any vertue, if there be any praiſe, think on theſe things.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
